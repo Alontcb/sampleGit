@@ -6,3 +6,4 @@ const greet2=(name1, name2)=>{
 }
 
 export {greet,greet2}
+console.log("some changes");
